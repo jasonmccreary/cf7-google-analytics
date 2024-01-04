@@ -3,8 +3,8 @@ Contributors: macbookandrew
 Tags: contact form, contact form 7, cf7, contactform7, google analytics, ga, universal, forms, form, track, tracking, event, events, goal, goals, analytics
 Donate link: https://cash.me/$AndrewRMinionDesign
 Requires at least: 4.3
-Tested up to: 6.3.0
-Stable tag: 1.8.10
+Tested up to: 6.4.2
+Stable tag: 1.8.14
 License: GPL2
 
 Adds Google Analytics Event Tracking to all Contact Form 7 forms.
@@ -99,6 +99,10 @@ Note: these instructions are provided for reference and may become out of date i
 1. Save and publish your changes.
 
 == Changelog ==
+
+= 1.8.14 =
+
+- Testing stuff.
 
 = 1.8.10 =
 - Fix issue with minified JS
