@@ -4,7 +4,7 @@
  * Plugin URI: https://andrewrminion.com/contact-form-7-google-analytics/
  * Description: Adds Google Analytics Event Tracking to all Contact Form 7 forms.
  * Tags: contact form, contact form 7, cf7, contactform7, google analytics, ga, universal, forms, form, track, tracking, event, events, goal, goals
- * Version: 1.8.18
+ * Version: 1.9.0
  * Tested up to: 6.4
  * Author: Andrew Minion
  * Author URI: https://www.andrewrminion.com
@@ -25,7 +25,7 @@ if ( ! defined( 'CF7GA_PLUGIN_FILE' ) ) {
 	define( 'CF7GA_PLUGIN_FILE', __FILE__ );
 }
 
-define( 'CF7GA_PLUGIN_VERSION', '1.8.18' );
+define( 'CF7GA_PLUGIN_VERSION', '1.9.0' );
 
 /** Include the main class. */
 if ( ! class_exists( 'CF7_Google_Analytics' ) ) {
