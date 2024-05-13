@@ -102,6 +102,10 @@ Note: these instructions are provided for reference and may become out of date i
 
 = 1.8.18 =
 
+Seeing the log.
+
+= 1.8.18 =
+
 Doing more stuff...
 
 = 1.8.17 =
